@@ -12,29 +12,48 @@ Ce fichier de configuration doit contenir certaines données afin que le script 
 Ce fichier de configuration a besoin des données suivantes :
 
 [BDD]
+
 user = 
+
 mdp =
+
 name =
 
+
 [SAVE]
+
 apache = 
+
 wordpress =
 
 [FTP]
+
 host =
+
 user =
+
 mdp =
+
 mawFilesNumber=
 
 [MSG]
+
 MSG1 =
+
 MSG2 =
+
 MSG3 =
+
 MSG4 =
+
 MSG5 =
+
 MSG6 =
+
 MSG7 =
+
 MSG8 =
+
 MSG9 = 
 
 
